@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
 
-- 📫 How to reach me **komalpradipballewar@gmail.com**
+- 📫 You can reach me at **komalpradipballewar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
