@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Komal Ballewar</h1>
 <h3 align="center">Bachelor of Computer Engineer | Java | Spring boot | Hibernate | Microservices | SQL</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/komalb57/Komalb57/assets/100153399/a725015e-2fa4-4884-9e8f-9e8bdf5ad37b).gif"> 
+<img align="right" width="400" src="![image](https://github.com/komalb57/Komalb57/assets/100153399/a725015e-2fa4-4884-9e8f-9e8bdf5ad37b).gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb57&label=Profile%20views&color=0e75b6&style=flat" alt="komalb57" /> </p>
 
