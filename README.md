@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently improving **my skills in Java Development.**
 
-- 👯 I’m looking to collaborate on **on exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
+- 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
 
 - 📫 How to reach me **komalpradipballewar@gmail.com**
 
