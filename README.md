@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb57&label=Profile%20views&color=0e75b6&style=flat" alt="komalb57" /> </p>
 
-- ✔  My Portfolio **https://github.com/komalb57/Portfolio.git**
+- ✔  My Portfolio **file:///C:/Users/dell/OneDrive/Desktop/HTML/Html%20Css%20Project/MY/index.html**
 
 - 🌱 I'm currently improving **my skills in Java Development.**
 
