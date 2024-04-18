@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
 
 - 📫 You can reach me at **https://www.linkedin.com/in/komal-ballewar**
-                          ** komalpradipballewar@gmail.com**
+                          
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
