@@ -10,7 +10,7 @@
   
 - 🎉 My Professional certificate: **https://drive.google.com/drive/folders/1A9vflmj1RDVRDu_MRGfWQpdPkQYBkbPn?usp=sharing**
   
-- 📫 You can reach me at **https://www.linkedin.com/in/komal-ballewar**
+- 📫 You can reach me at **komalpradipballewar@gmail.com**
                           
 
 <h3 align="left">Connect with me:</h3>
