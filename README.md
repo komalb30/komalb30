@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Komal Ballewar</h1>
+<h1 align="center">Hi,👋 I'm Komal Ballewar</h1>
 <h3 align="center">Bachelor of Computer Engineer | Java | Spring Boot | Hibernate | Microservices | SQL</h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> 
 
