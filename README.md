@@ -11,6 +11,7 @@
 - 🎉 My Professional certificate: **https://drive.google.com/drive/folders/1A9vflmj1RDVRDu_MRGfWQpdPkQYBkbPn?usp=sharing**
   
 - 📫 You can reach me at **https://www.linkedin.com/in/komal-ballewar**
+                          **https://t.me/kb0570**
                           
 
 <h3 align="left">Connect with me:</h3>
