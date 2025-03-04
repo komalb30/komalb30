@@ -49,7 +49,7 @@
   </a> -->
   <!-- Power BI -->
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Power_BI_Logo_2023.svg/1200px-Power_BI_Logo_2023.svg.png" alt="Power BI" width="40" height="40"/>
 </a>
 <!-- HTML -->
   <a href="https://www.w3.org/mongodb/" target="_blank" rel="noreferrer"> 
