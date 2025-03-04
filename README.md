@@ -51,10 +51,21 @@
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Power_BI_Logo_2023.svg/1200px-Power_BI_Logo_2023.svg.png" alt="Power BI" width="40" height="40"/>
 </a>
-<!-- HTML -->
+
+  
+<!-- MongoDB 
   <a href="https://www.w3.org/mongodb/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  </a> -->
+<!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
+<!-- Excel-->
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Microsoft_Excel_Logo_2023.svg" alt="Excel" width="40" height="40"/>
+</a>
+  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb57&show_icons=true&locale=en&layout=compact" alt="komalb57" /></p>
