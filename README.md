@@ -47,10 +47,10 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
   </a> -->
-  <!-- Power BI -->
+  <!-- Power BI 
 <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Power_BI_Logo_2023.svg/1200px-Power_BI_Logo_2023.svg.png" alt="Power BI" width="40" height="40"/>
-</a>
+</a> -->
 <!-- MongoDB 
   <a href="https://www.w3.org/mongodb/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
