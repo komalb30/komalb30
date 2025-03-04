@@ -1,5 +1,5 @@
 <h1 align="center">Hi,👋 I'm Komal Ballewar</h1>
-<h3 align="center">Computer Engineer | Java | Python | MySQL | Power BI | </h3>
+<h3 align="center">Aspiring Data Analyst | Java | Python | MySQL | Power BI | Excel </h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb57&label=Profile%20views&color=0e75b6&style=flat" alt="komalb57" /> </p>
@@ -23,26 +23,34 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-    <!-- HTML -->
+    <!-- HTML 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <!-- CSS -->
+  </a> -->
+  <!-- CSS 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
+  </a> -->
   <!-- Java -->
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+  </a> 
+  <!-- Python -->
+  <a href="https://www.python.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <!-- MySQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
-<!-- Spring -->
+<!-- Spring 
   <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
+  </a> -->
+  <!-- Power BI -->
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/>
+</a>
 <!-- HTML -->
   <a href="https://www.w3.org/mongodb/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
