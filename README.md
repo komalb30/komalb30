@@ -1,10 +1,10 @@
 <h1 align="center">Hi,👋 I'm Komal Ballewar</h1>
-<h3 align="center">Computer Engineer | Java | Spring Boot | Hibernate | Spring | MySQL | Linux</h3>
+<h3 align="center">Computer Engineer | Java | Python | MySQL | Power BI | </h3>
 <img align="right" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb57&label=Profile%20views&color=0e75b6&style=flat" alt="komalb57" /> </p>
 
-- 🌱 I'm currently improving **my skills in Java Development.**
+- 🌱 I'm currently improving **my Technical Skills.**
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
   
