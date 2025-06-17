@@ -24,7 +24,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <div align="left">
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Excel-Workbook.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Excel-Workbook.svg" height="40" alt="excel logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg.svg"height="40" alt="powerbi logo"  />
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg"height="40" alt="numpy logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
