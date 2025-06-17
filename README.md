@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Power_BI_Logo.svg" height="40" alt="powerbi logo"  />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -41,7 +41,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
 
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=komalb57&show_icons=true&locale=en" alt="komalb57" /></p>
-
-<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=komalb57&" alt="komalb57" /></p>-->
 
