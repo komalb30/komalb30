@@ -24,10 +24,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <div align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/Excel.svg"height="40" alt="excel logo" />
+<!--   <img src="https://icon.icepanel.io/Technology/svg/Excel.svg"height="40" alt="excel logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" height="40" alt="SQL logo"  />
-  <img width="12" />
+  <img width="12" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354127/numpy.svg"height="40" alt="numpy logo" />
