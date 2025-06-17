@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354127/numpy.svg"height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://www.svgrepo.com/svg/473742/pandas"height="40" alt="pandas logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg"height="40" alt="pandas logo" />
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"height="40" alt="matplotlib logo" />
   <img width="12" />
