@@ -34,6 +34,12 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354127/numpy.svg"height="40" alt="numpy logo" />
   <img width="12" />
+  <img src="https://www.svgrepo.com/svg/473742/pandas"height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"height="40" alt="seaborn logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
