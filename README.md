@@ -24,11 +24,13 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Excel-Workbook.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/SQL-Query.svg"height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
