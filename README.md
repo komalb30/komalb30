@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb57&label=Profile%20views&color=0e75b6&style=flat" alt="komalb57" /> </p>
 
-- 🌱 I'm currently improving **my Technical Skills.**
+- 🌱 I'm currently improving **my Data Analysis Skills.**
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
   
