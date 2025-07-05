@@ -21,39 +21,16 @@
 </p>
 
 
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <div align="left">
-<!--   <img src="https://icon.icepanel.io/Technology/svg/Excel.svg"height="40" alt="excel logo" />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" height="40" alt="SQL logo"  />
-  <img width="12" /> --
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="matplotlib logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="seaborn logo" />
-  <img width="12" />
-  <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-</div>
-
-</p> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!-- EXCEL -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
+  <!-- MYSQL -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+  </a>
   <!-- POSTGRESQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
@@ -62,15 +39,30 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
-  <!-- PYCHARM -->
+  <!-- NUMPY -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="" width="40" height="40"/> 
   </a>
-  <!-- MYSQL -->
+  <!-- PANDAS -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+    <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="" width="40" height="40"/> 
   </a>
-  
+  <!-- MATPLOTLIB -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="" width="40" height="40"/> 
+  </a>
+  <!-- SEABORN -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="" width="40" height="40"/> 
+  </a>
+  <!-- POWER BI -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
+  </a>
+  <!-- KAGGLE -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="" width="40" height="40"/> 
+  </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
 
 
