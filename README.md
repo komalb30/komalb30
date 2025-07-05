@@ -50,9 +50,9 @@
 </p> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- MYSQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <!-- EXCEL -->
+  <a href="" target="_blank" rel="noreferrer"> 
+    <img src="https://icon.icepanel.io/Technology/svg/Excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <!-- POSTGRESQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
