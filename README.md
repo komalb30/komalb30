@@ -28,15 +28,15 @@
   <img width="12" />
   <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" height="40" alt="SQL logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python logo"  />
-<!--   <img width="12" /> -->
-  <img src="https://www.svgrepo.com/show/354127/numpy.svg"height="40" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg"height="40" alt="pandas logo" />
+  <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="40" alt="numpy logo" />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg"height="40" alt="matplotlib logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg"height="40" alt="seaborn logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" height="40" alt="matplotlib logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" height="40" alt="seaborn logo" />
   <img width="12" />
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" height="40" alt="powerbi logo"  />
   <img width="12" />
