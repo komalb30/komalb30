@@ -21,13 +21,13 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <div align="left">
 <!--   <img src="https://icon.icepanel.io/Technology/svg/Excel.svg"height="40" alt="excel logo" />
   <img width="12" />
   <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" height="40" alt="SQL logo"  />
-  <img width="12" /> -->
+  <img width="12" /> --
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://www.svgrepo.com/show/354127/numpy.svg" height="40" alt="numpy logo" />
@@ -47,8 +47,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
-</p>
-
+</p> -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
 
 
