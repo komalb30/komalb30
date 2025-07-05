@@ -23,10 +23,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- EXCEL -->
+  <!-- EXCEL 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="excel" width="40" height="40"/> 
-  </a> 
+  </a> -->
   <!-- MYSQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
