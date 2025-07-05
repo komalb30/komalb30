@@ -28,8 +28,8 @@
     <img src="https://icon.icepanel.io/Technology/svg/Excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <!-- MYSQL -->
-  <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://www.mysql.com/" alt="mysql" width="40" height="40"/> 
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
   <!-- POSTGRESQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
