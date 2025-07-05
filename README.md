@@ -25,7 +25,7 @@
 <p align="left"> 
   <!-- EXCEL -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://icon.icepanel.io/Technology/svg/Excel.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://icons8.com/icons/set/excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <!-- MYSQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
