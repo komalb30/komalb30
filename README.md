@@ -29,7 +29,7 @@
   </a> 
   <!-- MYSQL -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/svg/331760/sql-database-generic" alt="sql" width="40" height="40"/> 
   </a>
   <!-- POSTGRESQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
