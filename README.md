@@ -1,8 +1,7 @@
 <h1 align="center">Hi,👋 I'm Komal Ballewar</h1>
 <h3 align="center"> Aspiring Data Analyst | Python | SQL | Power BI | Excel | Driven to Transform Data into Meaningful Insights </h3>
-<img align="right" width="300" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40nimishajalota28%2Fhow-people-working-in-data-field-are-a-great-asset-to-an-organization-99e889f9bd1f&psig=AOvVaw3A8DVzq88euBlSZTnt6Nll&ust=1751826096276000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKiBpPOqpo4DFQAAAAAdAAAAABAE"> 
+<img align="right" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"> 
 
-<!--https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif--> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb30&label=Profile%20views&color=0e75b6&style=flat" alt="komalb30" /> </p>
 
 - 🌱 I'm currently improving **my Data Analysis Skills.**
