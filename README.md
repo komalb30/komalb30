@@ -18,12 +18,10 @@
 <a href="https://linkedin.com/in/komal-ballewar" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-ballewar" height="30" width="40" />
 </a>
-  <br>
 <a href="https://instagram.com/btwits_kb30" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitskb57" height="30" width="40" />
+  <img align="center" src="https://icons8.com/icons/set/instagram.svg" alt="btwitskb57" height="30" width="40" />
 </a>
-  <br>
-<a href="https://www.facebook.com/komal.ballewar.57" target="blank">
+<a href="https://www.facebook.com/komalballewar57" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal ballewar" height="30" width="40" />
 </a>
 </p>
