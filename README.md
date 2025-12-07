@@ -69,6 +69,6 @@
   </a>
 <p>
   
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p> -->
 
 
