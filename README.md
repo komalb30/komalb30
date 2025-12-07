@@ -9,9 +9,8 @@
   
 - 🎉 My Professional certificate: [Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link)
 
-- 📫 You can reach me at **komalpradipballewar@gmail.com**
-                          
-
+- 📫 You can reach me at You can reach me at [Link](mailto:komalpradipballewar@gmail.com)
+            
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komal-ballewar" target="blank">
