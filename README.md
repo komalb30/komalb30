@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
   
-- 🎉 My Professional certificate: [Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link)
+- 🎉 My Professional certificate: [📜Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link)
 
-- 📫 You can reach me at [Link](mailto:komalpradipballewar@gmail.com)
+- 📫 You can reach me at [📩Link](mailto:komalpradipballewar@gmail.com)
             
 <h3 align="left">Connect with me:</h3>
 <p align="left">
