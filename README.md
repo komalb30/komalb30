@@ -67,6 +67,8 @@
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="" width="40" height="40"/> 
   </a>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
+<p>
+  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p>
 
 
