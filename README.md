@@ -7,7 +7,10 @@
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
   
-- 🎉 My Professional certificate: https://my-certificate-jiaf.onrender.com
+- 🎉 My Professional certificate: # My Certificates
+
+- [Data Analyst Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link)
+
 - 📫 You can reach me at **komalpradipballewar@gmail.com**
                           
 
