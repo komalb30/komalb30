@@ -51,14 +51,16 @@
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="" width="40" height="40"/> 
   </a>
-  <!-- MATPLOTLIB -->
+<!--   
+  <!-- MATPLOTLIB 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="" width="40" height="40"/> 
   </a>
-  <!-- SEABORN -->
+   # SEABORN 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="" width="40" height="40"/> 
   </a>
+  --> 
   <!-- POWER BI -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
