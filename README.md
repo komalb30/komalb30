@@ -36,10 +36,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-   <!-- POSTGRESQL 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
-  </a> -->
   <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -61,9 +57,13 @@
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="" width="40" height="40"/> 
   </a>
   --> 
+     <!-- POSTGRESQL 
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
+  </a> -->
   <!-- POWER BI -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40" style="margin-right:10px; /> 
   </a>
   <!-- KAGGLE -->
   <a href="" target="_blank" rel="noreferrer"> 
