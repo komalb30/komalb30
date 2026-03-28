@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **exciting projects and opportunities that allow me to apply and enhance my skills as a fresher.**
   
-<!-- - 🎉 My Professional certificate: [📜Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link) -->
+- 🎉 My Professional certificate: [📜Certificate](https://drive.google.com/file/d/1P8rVKNGPbsjKgx6HXxvsBc540FXI5St7/view?usp=drive_link) 
 
 - 📫 You can reach me at [📩Link](mailto:komalpradipballewar@gmail.com)
             
@@ -32,12 +32,10 @@
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="excel" width="40" height="40"/> 
   </a> 
-  <br>
   <!-- MYSQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
-  <br>
    <!-- POSTGRESQL 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
