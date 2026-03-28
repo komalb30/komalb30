@@ -39,15 +39,15 @@
   <!-- PYTHON -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+  </a>&nbsp;&nbsp;
   <!-- NUMPY -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- PANDAS -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="" width="40" height="40"/> 
-  </a> 
+  </a>&nbsp;&nbsp; 
   <!-- MATPLOTLIB 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Matplotlib.svg" alt="" width="40" height="40"/> 
@@ -64,7 +64,7 @@
   <!-- POWER BI -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
-  </a>
+  </a>&nbsp;&nbsp;
   <!-- KAGGLE -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="" width="40" height="40"/> 
