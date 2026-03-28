@@ -31,7 +31,7 @@
   <!-- EXCEL -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="excel" width="40" height="40"/> 
-  </a> 
+  </a> &nbsp;&nbsp;
   <!-- MYSQL -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -63,7 +63,7 @@
   </a> -->
   <!-- POWER BI -->
   <a href="" target="_blank" rel="noreferrer"> 
-    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40" style="margin-right:10px; /> 
+    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
   </a>
   <!-- KAGGLE -->
   <a href="" target="_blank" rel="noreferrer"> 
