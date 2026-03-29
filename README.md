@@ -1,5 +1,5 @@
 <!-- <h1 align="center">Hi,👋 I'm Komal Ballewar</h1> -->
-<h1 align="center">Hi, <img align="" width="10" src="https://www.pinterest.com/pin/352266002105451635/"> I'm Komal Ballewar</h1>
+<h1 align="center">Hi, <img align="centre" width="10" src="https://www.pinterest.com/pin/352266002105451635/"> I'm Komal Ballewar</h1>
 
 <h3 align="center"> Data Analyst | Skilled in SQL, Excel, Python, Power BI | Turning Data into Actionable Insights </h3>
 <!-- <h3 align="center"> Computer Engineer | Skilled in Microsoft Excel, SQL and Power BI | Data and Reporting </h3> -->
