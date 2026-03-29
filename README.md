@@ -73,7 +73,7 @@
 ## 🛠️ Skills & Tools
 
 * **Data Analysis:** Excel, SQL, Python
-* **Data Visualization:** Power BI, Tableau
+* **Data Visualization:** Power BI
 * **Libraries:** Pandas, NumPy
 * **Database:** MySQL
 * **Other Skills:** Data Cleaning, Dashboard Creation
