@@ -12,18 +12,7 @@
 
 - 📫 You can reach me at [📩Link](mailto:komalpradipballewar@gmail.com)
             
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/komal-ballewar" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-ballewar" height="30" width="40" />
-</a>
-<a href="https://instagram.com/btwits_kb30" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitskb57" height="30" width="40" />
-</a>
-<a href="https://www.facebook.com/komalballewar57" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal ballewar" height="30" width="40" />
-</a>
-</p>
+---
 
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -82,6 +71,7 @@
   </a> 
 <p> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p> -->
+--- 
 
 ## 🛠️ Skills & Tools
 
@@ -91,3 +81,16 @@
 * **Database:** MySQL
 * **Other Skills:** Data Cleaning, Data Presentation, Dashboard Creation
 
+--- 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/komal-ballewar" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="komal-ballewar" height="30" width="40" />
+</a>
+<a href="https://instagram.com/btwits_kb30" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btwitskb57" height="30" width="40" />
+</a>
+<a href="https://www.facebook.com/komalballewar57" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="komal ballewar" height="30" width="40" />
+</a>
+</p>
