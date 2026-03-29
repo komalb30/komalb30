@@ -78,6 +78,16 @@
 * **Database:** MySQL
 * **Other Skills:** Data Cleaning, Dashboard Creation
 
+<!--
+## 📊 Projects
+
+Here are some of the projects I’ve worked on:
+
+* 📈 **E-Commerce Sales Analysis** – Analyzed sales data to identify top-performing products and regions.
+* 🏏 **IPL Data Analysis Dashboard** – Interactive dashboard to explore team performance and player statistics.
+* 🛒 **Super Store Sales Dashboard** – Visualized sales, profit, and category performance. -->
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
