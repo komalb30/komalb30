@@ -12,8 +12,6 @@
 
 - 📫 You can reach me at [📩Link](mailto:komalpradipballewar@gmail.com)
             
----
-
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -71,17 +69,17 @@
   </a> 
 <p> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p> -->
---- 
+
 
 ## 🛠️ Skills & Tools
 
 * **Data Analysis:** Excel, SQL, Python
 * **Data Visualization:** Power BI, Tableau
-* **Libraries:** Pandas, NumPy, Matplotlib
+* **Libraries:** Pandas, NumPy
 * **Database:** MySQL
-* **Other Skills:** Data Cleaning, Data Presentation, Dashboard Creation
+* **Other Skills:** Data Cleaning, Dashboard Creation
 
---- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/komal-ballewar" target="blank">
