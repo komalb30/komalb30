@@ -10,7 +10,7 @@
   
 - 🎉 My Professional certificate: [📜Certificate](https://drive.google.com/file/d/18uxg1dMtlATdnFBWsD3o19SEU57OJpik/view) 
 
-- 📫 You can reach me at [📩mail](mailto:komalpradipballewar@gmail.com)
+- 📫 You can reach me at [📩Mail](mailto:komalpradipballewar@gmail.com)
             
 
 <!-- <h3 align="left">Languages and Tools:</h3>
