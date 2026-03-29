@@ -1,5 +1,5 @@
 <h1 align="center">Hi,👋 I'm Komal Ballewar</h1>
-<h3 align="center"> Data Analyst | Skilled in Python, SQL, Power BI & Excel | Turning Data into Actionable Insights </h3>
+<!-- <h3 align="center"> Data Analyst | Skilled in Python, SQL, Power BI & Excel | Turning Data into Actionable Insights </h3> -->
 <!-- <h3 align="center"> Computer Engineer | Skilled in Microsoft Excel, SQL and Power BI | Data and Reporting </h3> -->
 <img align="right" width="300" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalb30&label=Profile%20views&color=0e75b6&style=flat" alt="komalb30" /> </p>
@@ -28,6 +28,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  * **Data Analysis:**  
   <!-- EXCEL -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="excel" width="40" height="40"/> 
@@ -40,6 +41,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
+  
+  <br>
+  <br>
+  * **Libraries:**
   <!-- NUMPY -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="" width="40" height="40"/> 
@@ -61,10 +66,18 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
   </a> -->
+
+  <br>
+  <br>
+  * **Data Visualization:**
   <!-- POWER BI -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
+
+  <br>
+  <br>
+  * **Other Skills:**
   <!-- KAGGLE -->
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="" width="40" height="40"/> 
