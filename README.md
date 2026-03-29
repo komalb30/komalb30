@@ -26,18 +26,18 @@
 </p>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   * **Data Analysis:**  
-  <!-- EXCEL -->
+  <!-- EXCEL 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" alt="excel" width="40" height="40"/> 
   </a> &nbsp;&nbsp;
-  <!-- MYSQL -->
+  <!-- MYSQL 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
-  <!-- PYTHON -->
+  <!-- PYTHON 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
@@ -45,11 +45,11 @@
   <br>
   <br>
   * **Libraries:**
-  <!-- NUMPY -->
+  <!-- NUMPY 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
-  <!-- PANDAS -->
+  <!-- PANDAS 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="" width="40" height="40"/> 
   </a>&nbsp;&nbsp; 
@@ -61,16 +61,14 @@
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" alt="" width="40" height="40"/> 
   </a>
-  --> 
+  -
      <!-- POSTGRESQL 
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>  
-  </a> -->
-
-  <br>
-  <br>
-  * **Data Visualization:**
-  <!-- POWER BI -->
+  </a> 
+  
+  <!-- * **Data Visualization:** -->
+  <!-- POWER BI 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" alt="" width="40" height="40"/> 
   </a>&nbsp;&nbsp;
@@ -78,11 +76,18 @@
   <br>
   <br>
   * **Other Skills:**
-  <!-- KAGGLE -->
+  <!-- KAGGLE 
   <a href="" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" alt="" width="40" height="40"/> 
   </a> 
-<p>
+<p> -->
 <!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=komalb30&show_icons=true&locale=en&layout=compact" alt="komalb30" /></p> -->
 
+## 🛠️ Skills & Tools
+
+* **Data Analysis:** Excel, SQL, Python
+* **Data Visualization:** Power BI, Tableau
+* **Libraries:** Pandas, NumPy, Matplotlib
+* **Database:** MySQL
+* **Other Skills:** Data Cleaning, Data Presentation, Dashboard Creation
 
